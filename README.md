@@ -1,6 +1,8 @@
+#Appunti di Power devices and circuits #
+
 Repository contenente gli appunti del corso di Power devices and circuits, tenuto durante l'anno accademico 2022/2023 dal Prof. Francesco Giuseppe della Corte presso
 la facoltà di ingegneria elettronica dell'Università degli Studi di Napoli Federico II.
 
-Guida per i poco pratici di GitHub:
+**Guida per i poco pratici di GitHub:** :electron:
 
-Per scaricare il contenuto della repository basta cliccare sulla casella di testo "Code" colorata di verde. A questo punto è sufficiente cliccare su "Download Zip" per avviare il processo di download della repository.
+Per scaricare il contenuto della repository basta cliccare sulla casella di testo "Code" colorata di 🟩. A questo punto è sufficiente cliccare su "Download Zip" per avviare il processo di download della repository.
