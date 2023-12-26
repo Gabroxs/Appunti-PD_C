@@ -5,4 +5,6 @@ la facoltà di ingegneria elettronica dell'Università degli Studi di Napoli Fed
 
 ## **Guida per i poco pratici di GitHub:** :electron:
 
-Per scaricare il contenuto della repository basta cliccare sulla casella di testo "Code" colorata di 🟩. A questo punto è sufficiente cliccare su "Download Zip" per avviare il processo di download della repository.
+* Basta cliccare sul nome del documento in formato .pdf. ed una volta aperto cliccare sul pulsante presente in alto a destra *Download raw file*;
+* In alternativa per scaricare il contenuto della repository basta cliccare sulla casella di testo "Code" colorata di 🟩. A questo punto è sufficiente cliccare su "Download Zip" per avviare il processo di download della repository.
+
